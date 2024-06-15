@@ -8,7 +8,7 @@ media
 static
 utils
 pictures
-
+project/local_settings.py
 
 # Backup files # 
 *.bak 
